@@ -247,7 +247,7 @@ cd sorixai
 
 ## 👤 Author
 
-**Team SorixAI**
+**Rupam**
 - Project: SorixAI — Browser-based Voice Assistant
 - Tools: HTML, CSS, JavaScript, Web Speech API, NewsAPI, Spotify API
 
